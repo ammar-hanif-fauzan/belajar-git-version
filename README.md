@@ -8,3 +8,4 @@ Nama : Ridzwan Gigih Herdyantha
 Usia : 15 tahun
 Alamat : Ampel
 Status : Pelajar
+
