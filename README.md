@@ -1,3 +1,5 @@
-Nama : Ridzwan Gigih Herdyantha 
-Sekolah : SMK N 1 Tengaran
-Jenis Kelamin : Laki laki
+"# belajar-git-version" 
+Nama : Alan Ari Mahendra
+Usia : 17 Tahun
+Alamat : Salatiga
+Status : Pelajar
